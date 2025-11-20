@@ -1,0 +1,6 @@
+@Group4_IT3045_FinalProject_HostAddress = http://localhost:5194
+
+GET {{Group4_IT3045_FinalProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
