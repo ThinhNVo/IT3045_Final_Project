@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Group4_IT3045_FinalProject.Controllers.CatsController",
+    "Method": "PostCat",
+    "RelativePath": "api/Cats",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cat",
+        "Type": "Group4_IT3045_FinalProject.Models.Cat",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Group4_IT3045_FinalProject.Controllers.CatsController",
+    "Method": "GetCat",
+    "RelativePath": "api/Cats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Group4_IT3045_FinalProject.Controllers.CatsController",
+    "Method": "PutCat",
+    "RelativePath": "api/Cats",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cat",
+        "Type": "Group4_IT3045_FinalProject.Models.Cat",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Group4_IT3045_FinalProject.Controllers.CatsController",
+    "Method": "GetCat",
+    "RelativePath": "api/Cats/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Group4_IT3045_FinalProject.Controllers.CatsController",
+    "Method": "DeleteCat",
+    "RelativePath": "api/Cats/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
