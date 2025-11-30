@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thinh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\thinh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\josh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\migrations\\20251129225956_initialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\migrations\\20251129225956_initialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\thinh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\migrations\\20251124142901_firsttablecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\josh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\josh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\data\\group4_it3045_finalprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\data\\group4_it3045_finalprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\josh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\migrations\\20251124142901_firsttablecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\migrations\\20251124142901_firsttablecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\josh\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251129225956_initialData.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251129225956_initialData.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Migrations\\20251129225956_initialData.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251129225956_initialData.cs*",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Migrations\\20251129225956_initialData.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:59:56.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:58:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group4_IT3045_FinalProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:53:35.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251124142901_firstTableCat.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:29:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Models\\Cat.cs",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:09:59.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -31,32 +112,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20251124142901_firstTableCat.cs",
-              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
-              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Migrations\\20251124142901_firstTableCat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:29:01.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Models\\Cat.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Models\\Cat.cs",
-              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Models\\Cat.cs",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Models\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:09:59.136Z",
-              "EditorCaption": ""
             }
           ]
         }
