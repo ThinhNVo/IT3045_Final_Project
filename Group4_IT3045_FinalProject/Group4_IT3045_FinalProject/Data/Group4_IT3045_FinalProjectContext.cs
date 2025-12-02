@@ -17,5 +17,6 @@ namespace Group4_IT3045_FinalProject.Data
         public DbSet<Group4_IT3045_FinalProject.Models.Cat> Cat { get; set; } = default!;
         public DbSet<Group4_IT3045_FinalProject.Models.Course> Course { get; set; } = default!;
         public DbSet<Group4_IT3045_FinalProject.Models.Person> Person { get; set; } = default!;
+        public DbSet<Group4_IT3045_FinalProject.Models.Product> Product { get; set; } = default!;
     }
 }
