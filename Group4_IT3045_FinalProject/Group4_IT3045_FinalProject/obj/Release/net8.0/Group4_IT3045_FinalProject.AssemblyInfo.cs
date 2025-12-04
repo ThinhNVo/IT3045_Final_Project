@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Group4_IT3045_FinalProject")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb844afbd11c0b2cd9dda47173e462a0feace3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24056e742c9ffd020d0f9d1abd768b29a835f58e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Group4_IT3045_FinalProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Group4_IT3045_FinalProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

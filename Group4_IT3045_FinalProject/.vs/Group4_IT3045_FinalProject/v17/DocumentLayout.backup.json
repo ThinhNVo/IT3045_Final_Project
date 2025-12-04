@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\",
+  "WorkspaceRootPath": "C:\\Users\\addys\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\bucke\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\addys\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\migrations\\20251130162406_coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\migrations\\20251130162406_coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\bucke\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251202182459_ProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Group4_IT3045_FinalProject\\Migrations\\20251202182459_ProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\bucke\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\data\\group4_it3045_finalprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\data\\group4_it3045_finalprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\bucke\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|c:\\users\\addys\\source\\repos\\it3045_final_project\\group4_it3045_finalproject\\group4_it3045_finalproject\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92DF9E3-B84E-4429-8722-052C614728DC}|Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject.csproj|solutionrelative:group4_it3045_finalproject\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,79 +26,36 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20251202182459_ProductTable.cs",
-              "DocumentMoniker": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251202182459_ProductTable.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Migrations\\20251202182459_ProductTable.cs",
-              "ToolTip": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251202182459_ProductTable.cs",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Migrations\\20251202182459_ProductTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:25:00.706Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Group4_IT3045_FinalProjectContext.cs",
-              "DocumentMoniker": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
-              "ToolTip": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Data\\Group4_IT3045_FinalProjectContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20251130162406_CourseTable.cs",
+              "DocumentMoniker": "C:\\Users\\addys\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251130162406_CourseTable.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Migrations\\20251130162406_CourseTable.cs",
+              "ToolTip": "C:\\Users\\addys\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Migrations\\20251130162406_CourseTable.cs",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Migrations\\20251130162406_CourseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:21:54.323Z",
+              "WhenOpened": "2025-12-04T17:49:31.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CatsController.cs",
-              "DocumentMoniker": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\CatsController.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Controllers\\CatsController.cs",
-              "ToolTip": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\CatsController.cs",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Controllers\\CatsController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGcAAAAFAAAAAAAAAA==",
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\addys\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\addys\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Group4_IT3045_FinalProject\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:16:17.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Controllers\\ProductsController.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:15:43.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Group4_IT3045_FinalProject\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\bucke\\source\\repos\\IT3045_Final_Project\\Group4_IT3045_FinalProject\\Group4_IT3045_FinalProject\\Models\\Product.cs",
-              "RelativeToolTip": "Group4_IT3045_FinalProject\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:09:44.517Z",
+              "WhenOpened": "2025-12-04T17:35:38.369Z",
               "EditorCaption": ""
             }
           ]
